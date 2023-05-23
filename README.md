@@ -18,5 +18,5 @@
 
 ## Contact:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-072ACB?style=for-the-badge&logo=LinkedIn&logoColor=010101)](https://www.linkedin.com/in/aleksandr-garnov/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-072ACB?style=for-the-badge&logo=LinkedIn&logoColor=010101)](https://www.linkedin.com/in/yury-selivanov/)
 [![Telegram](https://img.shields.io/badge/-Telegram-072ACB?style=for-the-badge&logo=Telegram&logoColor=010101)](https://t.me/yuryselivanov)
