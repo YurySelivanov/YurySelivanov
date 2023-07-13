@@ -1,7 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=072ac8&weight=320&size=45&pause=1000&color=072ac8&width=500&height=61&lines=QA+Engineer)](https://git.io/typing-svg)
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1Txeud904K1n2k40ZCQcDHpKtKjD4ozu5/view?usp=share_link)
 
 ## Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
